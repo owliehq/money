@@ -1,6 +1,6 @@
 {
   "name": "@owliehq/money",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Helper about money like VAT management",
   "homepage": "https://github.com/owliehq/money/tree/master/packages/api",
   "keywords": [],
