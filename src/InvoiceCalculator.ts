@@ -72,7 +72,7 @@ export class InvoiceCalculator {
    * @param quantity
    */
   static getWithVAT(price: number, vat: number, quantity = 1): number {
-    return Math.ceil(price * (1 + vat) * quantity)
+    return Math.ceil(price * (1 + vat)) * quantity
   }
 
   /**
